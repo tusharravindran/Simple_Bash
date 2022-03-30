@@ -17,4 +17,4 @@ ls |xargs -0 cat domains_* |httprobe
 
 
 # usage 
-#./subdomain.sh sece.ac.in
+#./subdomain_recon.sh sece.ac.in
